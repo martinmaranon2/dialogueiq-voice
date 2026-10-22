@@ -1,0 +1,19 @@
+{
+  "versions": [
+    {
+      "repository": "evangelosAntegris/ZurichHackathlon",
+      "commit": "74a19bdcdbf8394d3525f0eb97f6993249eacf0a",
+      "path": "apps/advisor"
+    },
+    {
+      "repository": "evangelosAntegris/ZurichHackathlon",
+      "commit": "34a074e6589ab99d2acbcc0c442bb62189113f88",
+      "path": "versions/client-insights"
+    },
+    {
+      "repository": "epanner/zurich-ai-hack-25",
+      "commit": "4605b4ac42c2eedf98e72467f4706429033a31d3",
+      "path": "versions/dashboard"
+    }
+  ]
+}
